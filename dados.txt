@@ -1,0 +1,43 @@
+18 reais cada arvore (site do SOS)
+190 kg de co2 compesnado por arvore  (pesquisas) 
+
+
+0,15 Kg CO2e para cada 12 kwh no ano (site do SOS)   
+OU 
+0,15 para cada 1 kwh no mês (site do SOS)
+
+CO2e para CADA pessoa na empresa SE ELA FOR PRESENCIAL   150kg de lixo/230kg de veiculo #ARRUMAR ISSO#  (site da moss)
+CO2e para CADA pessoa na empresa SE FOR HOME OFFICE    150kg de lixo 390kg de luz   (site da moss)
+CO2e para CADA pessoa na empresa SE FOR HIBRIDA   150kg de lixo/110kg de veiculo/200kg de luz     (site da moss)  
+
+P:Gasto em LITROS médio mensal de combustiveis  (site da moss)
+R: 1L = 0,02T CO2e  
+
+P:Gasto em Km médio mensal (site do SOS)
+(if x = 1 (igual gasolina sla) (gasolina emite tanto ent) quantidade de km * emissao)   
+
+P:Gasto em REAIS médio mensal de transportes(taxi,uber,trem) (site da moss)
+R: R$10 = 0.01T CO2e    
+
+P:Quantos voos no ano   (site do SOS)
+R: 1voo = 0,16T CO2e(NACIONAL)(160,2)(ida e volta)  
+R: 1voo = 2,2T CO2e(INTERNACIONAL)(2249,2)(ida e volta)  
+
+EMISSÕES FUGITIVAS 
+P:Quantos ar condicionado SPLIT na empresa FISICA (site da moss)
+R: 1ar = 0,3T CO2e
+
+P:Quantos ar condicionado CENTRAL na empresa FISICA (site da moss)
+R: 1ar central = 44,3T CO2e 
+
+
+P:Quantos refrigeradores na empresa FISICA  (site da moss)
+R: 1 = 1kg CO2e    
+
+P:Quantos extintores de incendio na empresa FISICA (site da moss)
+R: 1 = 0,005kg CO2e
+
+P:Qual o gasto mensal em REAIS com gás(encanado e/ou botijão) na empresa FISICA (site do SOS)
+R: 1 = xT CO2e  
+(botijao é 36kg = 0,036T) 
+(encanado é 23kg = 0,023T) 
